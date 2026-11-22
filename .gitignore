@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pkl
+*.zip
+*.7z
+fortnitel1-vmaf/
+fortnitel1-crf/
